@@ -5,5 +5,8 @@ scikit-learn
 joblib
 pillow
 python-multipart
+
 tensorflow
+keras
+
 opencv-python-headless
